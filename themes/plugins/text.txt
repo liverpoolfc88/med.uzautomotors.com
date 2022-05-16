@@ -1,0 +1,3 @@
+bular proyektga tawlangan papkalar assetsdagi plugins ga
+bootstrap-wysihtml5
+jvectormap
